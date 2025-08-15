@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mandar Tannu</h1>
 
-<h3 align="center">A Passionate Data Scientist from Pune, Maharashtra</h3>
+<h3 align="center">A Passionate Data Analyst from Pune, Maharashtra</h3>
 
 <p align="center">
-  🎯 Turning Data into Decisions | Aspiring Data Scientist | Tech Explorer
+  🎯 Turning Data into Decisions | Aspiring Data Analyst | Tech Explorer
 </p>
 
 <br/>
